@@ -1,0 +1,66 @@
+<html> 
+<head> 
+</head> 
+<body>
+<p><u><font color=""/>EXO sur HTML</font</u></p>
+  
+
+ 
+<ul><p><u><font color=""/>
+	<li><i>Savoir creer un dossier : repertoire de travail </li></i>
+	<li><i>Savoir creer un un fichier HTML -> Ex1.html (touch ex1.html) </li></i>
+	<li><i>Savoir ecrire une structure HTML basique -> (ouvrir fichier ex1.html -> un mot ->  ouvrir fichier firefox) </li></i> 
+	<li><i>Tester le maximum de balises HTML -> (fichier -> ctrlS -> internet -> F5) </li> 
+</ul></i> </font> <p/></u>
+
+<h1>
+<p><u><font color="#C60800"#/>Rappel</font> </p></u>
+   </h1> 
+<ul> 
+	<li> < = chevron ouvrant </li> 
+
+	<li> > = chevron fermer </li> 
+ 
+	 <li>  &lt;html&gt; = balise ouvrante </li> 
+
+	 <li>  &lt;/html&gt; = balise fermer </li>
+
+
+</ul>
+
+<B>CODE</B> 
+<ul>
+<li> &lt;html&gt; </li>
+<li> &lt;head&gt; </li>
+<li> &lt;/head&gt;</li>
+<li> &lt;body&gt; </li> 
+<li> &lt;/body&gt;</li> 
+<li> &lt;/html&gt;</li>
+</ul>
+
+<ul>
+	<li> pour le titre -> &lt;h1&gt;texte&lt/h1&gt
+	<li> pour le point -> &lt;ul&gt;
+        &lt;li&gt;texte&lt;/li&gt; 
+</ul>
+
+<B><i>COURS</B></i> 
+<ul>
+	<li>P=Paragraphe</li> 
+	<li>U=Souligner</li> 
+	<li>I=Italique</li> 
+	<li>B=Gras</li>
+	
+<xmp>
+	<p><font color="fuchsia">Texte en rose fuchsia.</font></p>
+</xmp>
+
+resultat : 
+<p><font color=fuchsia">Texte en rose fuchsia.</font></p>
+
+
+
+
+</body> 
+</html> 
+
